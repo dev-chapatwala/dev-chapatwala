@@ -1,8 +1,8 @@
 ### Hi there, Dev here 👋
 
 - 🔭 I’m currently working on cyber security and web-development projects.
-- 🌱 I’m currently learning Machine learning and IOT.
-- 👯 I’m looking to collaborate on interesting projects based on Web-development.
+- 🌱 I’m currently learning Ethical hacking and IOT.
+- 👯 I’m looking to collaborate on interesting projects based on Web-development & cyber security.
 - 🤔 I’m looking for help with cyber security and finance.
 - 📫 How to reach me: 
   - :zap: [Linkedin](www.linkedin.com/in/dev-chapatwala-developer)
